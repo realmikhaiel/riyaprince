@@ -1,4 +1,5 @@
-###- 👋 Hi, I’m @riyaprince
+###
+👋 Hi, I’m @riyaprince
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
